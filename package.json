@@ -20,9 +20,6 @@
   "homepage": "https://github.com/andysmokk/goit-js-hw-08-gallery#readme",
   "dependencies": {},
   "devDependencies": {
-    "@babel/cli": "^7.14.8",
-    "@babel/core": "^7.14.8",
-    "@babel/preset-env": "^7.14.8",
     "parcel-bundler": "^1.12.5"
   }
 }
